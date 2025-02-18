@@ -1,4 +1,4 @@
-TOTAL_PAGES = 59
+TOTAL_PAGES = 57
 # personal information below
 ID = "你的學號"  # student ID here學號
 NAME = "你的姓名"  # name here姓名
