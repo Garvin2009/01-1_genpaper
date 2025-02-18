@@ -649,351 +649,6 @@
       "UNICODE": "0x22EF"
     },
     {
-      "UNICODE": "0x2E80"
-    },
-    {
-      "UNICODE": "0x2E81"
-    },
-    {
-      "UNICODE": "0x2E82"
-    },
-    {
-      "UNICODE": "0x2E83"
-    },
-    {
-      "UNICODE": "0x2E84"
-    },
-    {
-      "UNICODE": "0x2E85"
-    },
-    {
-      "UNICODE": "0x2E86"
-    },
-    {
-      "UNICODE": "0x2E87"
-    },
-    {
-      "UNICODE": "0x2E88"
-    },
-    {
-      "UNICODE": "0x2E89"
-    },
-    {
-      "UNICODE": "0x2E8A"
-    },
-    {
-      "UNICODE": "0x2E8B"
-    },
-    {
-      "UNICODE": "0x2E8C"
-    },
-    {
-      "UNICODE": "0x2E8D"
-    },
-    {
-      "UNICODE": "0x2E8E"
-    },
-    {
-      "UNICODE": "0x2E8F"
-    },
-    {
-      "UNICODE": "0x2E90"
-    },
-    {
-      "UNICODE": "0x2E91"
-    },
-    {
-      "UNICODE": "0x2E92"
-    },
-    {
-      "UNICODE": "0x2E93"
-    },
-    {
-      "UNICODE": "0x2E94"
-    },
-    {
-      "UNICODE": "0x2E95"
-    },
-    {
-      "UNICODE": "0x2E96"
-    },
-    {
-      "UNICODE": "0x2E97"
-    },
-    {
-      "UNICODE": "0x2E98"
-    },
-    {
-      "UNICODE": "0x2E99"
-    },
-    {
-      "UNICODE": "0x2E9B"
-    },
-    {
-      "UNICODE": "0x2E9C"
-    },
-    {
-      "UNICODE": "0x2E9D"
-    },
-    {
-      "UNICODE": "0x2E9E"
-    },
-    {
-      "UNICODE": "0x2E9F"
-    },
-    {
-      "UNICODE": "0x2EA0"
-    },
-    {
-      "UNICODE": "0x2EA1"
-    },
-    {
-      "UNICODE": "0x2EA2"
-    },
-    {
-      "UNICODE": "0x2EA3"
-    },
-    {
-      "UNICODE": "0x2EA4"
-    },
-    {
-      "UNICODE": "0x2EA5"
-    },
-    {
-      "UNICODE": "0x2EA6"
-    },
-    {
-      "UNICODE": "0x2EA7"
-    },
-    {
-      "UNICODE": "0x2EA8"
-    },
-    {
-      "UNICODE": "0x2EA9"
-    },
-    {
-      "UNICODE": "0x2EAA"
-    },
-    {
-      "UNICODE": "0x2EAB"
-    },
-    {
-      "UNICODE": "0x2EAC"
-    },
-    {
-      "UNICODE": "0x2EAD"
-    },
-    {
-      "UNICODE": "0x2EAE"
-    },
-    {
-      "UNICODE": "0x2EAF"
-    },
-    {
-      "UNICODE": "0x2EB0"
-    },
-    {
-      "UNICODE": "0x2EB1"
-    },
-    {
-      "UNICODE": "0x2EB2"
-    },
-    {
-      "UNICODE": "0x2EB3"
-    },
-    {
-      "UNICODE": "0x2EB4"
-    },
-    {
-      "UNICODE": "0x2EB5"
-    },
-    {
-      "UNICODE": "0x2EB6"
-    },
-    {
-      "UNICODE": "0x2EB7"
-    },
-    {
-      "UNICODE": "0x2EB8"
-    },
-    {
-      "UNICODE": "0x2EB9"
-    },
-    {
-      "UNICODE": "0x2EBA"
-    },
-    {
-      "UNICODE": "0x2EBB"
-    },
-    {
-      "UNICODE": "0x2EBC"
-    },
-    {
-      "UNICODE": "0x2EBD"
-    },
-    {
-      "UNICODE": "0x2EBE"
-    },
-    {
-      "UNICODE": "0x2EBF"
-    },
-    {
-      "UNICODE": "0x2EC0"
-    },
-    {
-      "UNICODE": "0x2EC1"
-    },
-    {
-      "UNICODE": "0x2EC2"
-    },
-    {
-      "UNICODE": "0x2EC3"
-    },
-    {
-      "UNICODE": "0x2EC4"
-    },
-    {
-      "UNICODE": "0x2EC5"
-    },
-    {
-      "UNICODE": "0x2EC6"
-    },
-    {
-      "UNICODE": "0x2EC7"
-    },
-    {
-      "UNICODE": "0x2EC8"
-    },
-    {
-      "UNICODE": "0x2EC9"
-    },
-    {
-      "UNICODE": "0x2ECA"
-    },
-    {
-      "UNICODE": "0x2ECB"
-    },
-    {
-      "UNICODE": "0x2ECC"
-    },
-    {
-      "UNICODE": "0x2ECD"
-    },
-    {
-      "UNICODE": "0x2ECE"
-    },
-    {
-      "UNICODE": "0x2ECF"
-    },
-    {
-      "UNICODE": "0x2ED0"
-    },
-    {
-      "UNICODE": "0x2ED1"
-    },
-    {
-      "UNICODE": "0x2ED2"
-    },
-    {
-      "UNICODE": "0x2ED3"
-    },
-    {
-      "UNICODE": "0x2ED4"
-    },
-    {
-      "UNICODE": "0x2ED5"
-    },
-    {
-      "UNICODE": "0x2ED6"
-    },
-    {
-      "UNICODE": "0x2ED7"
-    },
-    {
-      "UNICODE": "0x2ED8"
-    },
-    {
-      "UNICODE": "0x2ED9"
-    },
-    {
-      "UNICODE": "0x2EDA"
-    },
-    {
-      "UNICODE": "0x2EDB"
-    },
-    {
-      "UNICODE": "0x2EDC"
-    },
-    {
-      "UNICODE": "0x2EDD"
-    },
-    {
-      "UNICODE": "0x2EDE"
-    },
-    {
-      "UNICODE": "0x2EDF"
-    },
-    {
-      "UNICODE": "0x2EE0"
-    },
-    {
-      "UNICODE": "0x2EE1"
-    },
-    {
-      "UNICODE": "0x2EE2"
-    },
-    {
-      "UNICODE": "0x2EE3"
-    },
-    {
-      "UNICODE": "0x2EE4"
-    },
-    {
-      "UNICODE": "0x2EE5"
-    },
-    {
-      "UNICODE": "0x2EE6"
-    },
-    {
-      "UNICODE": "0x2EE7"
-    },
-    {
-      "UNICODE": "0x2EE8"
-    },
-    {
-      "UNICODE": "0x2EE9"
-    },
-    {
-      "UNICODE": "0x2EEA"
-    },
-    {
-      "UNICODE": "0x2EEB"
-    },
-    {
-      "UNICODE": "0x2EEC"
-    },
-    {
-      "UNICODE": "0x2EED"
-    },
-    {
-      "UNICODE": "0x2EEE"
-    },
-    {
-      "UNICODE": "0x2EEF"
-    },
-    {
-      "UNICODE": "0x2EF0"
-    },
-    {
-      "UNICODE": "0x2EF1"
-    },
-    {
-      "UNICODE": "0x2EF2"
-    },
-    {
-      "UNICODE": "0x2EF3"
-    },
-    {
       "UNICODE": "0x2F00"
     },
     {
@@ -1702,42 +1357,6 @@
       "UNICODE": "0x301E"
     },
     {
-      "UNICODE": "0x3021"
-    },
-    {
-      "UNICODE": "0x3022"
-    },
-    {
-      "UNICODE": "0x3023"
-    },
-    {
-      "UNICODE": "0x3024"
-    },
-    {
-      "UNICODE": "0x3025"
-    },
-    {
-      "UNICODE": "0x3026"
-    },
-    {
-      "UNICODE": "0x3027"
-    },
-    {
-      "UNICODE": "0x3028"
-    },
-    {
-      "UNICODE": "0x3030"
-    },
-    {
-      "UNICODE": "0x303D"
-    },
-    {
-      "UNICODE": "0x303E"
-    },
-    {
-      "UNICODE": "0x303F"
-    },
-    {
       "UNICODE": "0x3041"
     },
     {
@@ -2396,285 +2015,6 @@
     },
     {
       "UNICODE": "0x3129"
-    },
-    {
-      "UNICODE": "0x3131"
-    },
-    {
-      "UNICODE": "0x3132"
-    },
-    {
-      "UNICODE": "0x3133"
-    },
-    {
-      "UNICODE": "0x3134"
-    },
-    {
-      "UNICODE": "0x3135"
-    },
-    {
-      "UNICODE": "0x3136"
-    },
-    {
-      "UNICODE": "0x3137"
-    },
-    {
-      "UNICODE": "0x3138"
-    },
-    {
-      "UNICODE": "0x3139"
-    },
-    {
-      "UNICODE": "0x313A"
-    },
-    {
-      "UNICODE": "0x313B"
-    },
-    {
-      "UNICODE": "0x313C"
-    },
-    {
-      "UNICODE": "0x313D"
-    },
-    {
-      "UNICODE": "0x313E"
-    },
-    {
-      "UNICODE": "0x313F"
-    },
-    {
-      "UNICODE": "0x3140"
-    },
-    {
-      "UNICODE": "0x3141"
-    },
-    {
-      "UNICODE": "0x3142"
-    },
-    {
-      "UNICODE": "0x3143"
-    },
-    {
-      "UNICODE": "0x3144"
-    },
-    {
-      "UNICODE": "0x3145"
-    },
-    {
-      "UNICODE": "0x3146"
-    },
-    {
-      "UNICODE": "0x3147"
-    },
-    {
-      "UNICODE": "0x3148"
-    },
-    {
-      "UNICODE": "0x3149"
-    },
-    {
-      "UNICODE": "0x314A"
-    },
-    {
-      "UNICODE": "0x314B"
-    },
-    {
-      "UNICODE": "0x314C"
-    },
-    {
-      "UNICODE": "0x314D"
-    },
-    {
-      "UNICODE": "0x314E"
-    },
-    {
-      "UNICODE": "0x314F"
-    },
-    {
-      "UNICODE": "0x3150"
-    },
-    {
-      "UNICODE": "0x3151"
-    },
-    {
-      "UNICODE": "0x3152"
-    },
-    {
-      "UNICODE": "0x3153"
-    },
-    {
-      "UNICODE": "0x3154"
-    },
-    {
-      "UNICODE": "0x3155"
-    },
-    {
-      "UNICODE": "0x3156"
-    },
-    {
-      "UNICODE": "0x3157"
-    },
-    {
-      "UNICODE": "0x3158"
-    },
-    {
-      "UNICODE": "0x3159"
-    },
-    {
-      "UNICODE": "0x315A"
-    },
-    {
-      "UNICODE": "0x315B"
-    },
-    {
-      "UNICODE": "0x315C"
-    },
-    {
-      "UNICODE": "0x315D"
-    },
-    {
-      "UNICODE": "0x315E"
-    },
-    {
-      "UNICODE": "0x315F"
-    },
-    {
-      "UNICODE": "0x3160"
-    },
-    {
-      "UNICODE": "0x3161"
-    },
-    {
-      "UNICODE": "0x3162"
-    },
-    {
-      "UNICODE": "0x3163"
-    },
-    {
-      "UNICODE": "0x3165"
-    },
-    {
-      "UNICODE": "0x3166"
-    },
-    {
-      "UNICODE": "0x3167"
-    },
-    {
-      "UNICODE": "0x3168"
-    },
-    {
-      "UNICODE": "0x3169"
-    },
-    {
-      "UNICODE": "0x316A"
-    },
-    {
-      "UNICODE": "0x316B"
-    },
-    {
-      "UNICODE": "0x316C"
-    },
-    {
-      "UNICODE": "0x316D"
-    },
-    {
-      "UNICODE": "0x316E"
-    },
-    {
-      "UNICODE": "0x316F"
-    },
-    {
-      "UNICODE": "0x3170"
-    },
-    {
-      "UNICODE": "0x3171"
-    },
-    {
-      "UNICODE": "0x3172"
-    },
-    {
-      "UNICODE": "0x3173"
-    },
-    {
-      "UNICODE": "0x3174"
-    },
-    {
-      "UNICODE": "0x3175"
-    },
-    {
-      "UNICODE": "0x3176"
-    },
-    {
-      "UNICODE": "0x3177"
-    },
-    {
-      "UNICODE": "0x3178"
-    },
-    {
-      "UNICODE": "0x3179"
-    },
-    {
-      "UNICODE": "0x317A"
-    },
-    {
-      "UNICODE": "0x317B"
-    },
-    {
-      "UNICODE": "0x317C"
-    },
-    {
-      "UNICODE": "0x317D"
-    },
-    {
-      "UNICODE": "0x317E"
-    },
-    {
-      "UNICODE": "0x317F"
-    },
-    {
-      "UNICODE": "0x3180"
-    },
-    {
-      "UNICODE": "0x3181"
-    },
-    {
-      "UNICODE": "0x3182"
-    },
-    {
-      "UNICODE": "0x3183"
-    },
-    {
-      "UNICODE": "0x3184"
-    },
-    {
-      "UNICODE": "0x3185"
-    },
-    {
-      "UNICODE": "0x3186"
-    },
-    {
-      "UNICODE": "0x3187"
-    },
-    {
-      "UNICODE": "0x3188"
-    },
-    {
-      "UNICODE": "0x3189"
-    },
-    {
-      "UNICODE": "0x318A"
-    },
-    {
-      "UNICODE": "0x318B"
-    },
-    {
-      "UNICODE": "0x318C"
-    },
-    {
-      "UNICODE": "0x318D"
-    },
-    {
-      "UNICODE": "0x318E"
     },
     {
       "UNICODE": "0x4E00"
@@ -3896,6 +3236,9 @@
     },
     {
       "UNICODE": "0x52E6"
+    },
+    {
+      "UNICODE": "0x52F3"
     },
     {
       "UNICODE": "0x52F5"
@@ -6931,6 +6274,9 @@
       "UNICODE": "0x6134"
     },
     {
+      "UNICODE": "0x6137"
+    },
+    {
       "UNICODE": "0x613E"
     },
     {
@@ -8095,6 +7441,9 @@
       "UNICODE": "0x662F"
     },
     {
+      "UNICODE": "0x6631"
+    },
+    {
       "UNICODE": "0x6642"
     },
     {
@@ -8146,6 +7495,9 @@
       "UNICODE": "0x667A"
     },
     {
+      "UNICODE": "0x6684"
+    },
+    {
       "UNICODE": "0x6687"
     },
     {
@@ -8162,6 +7514,9 @@
     },
     {
       "UNICODE": "0x6697"
+    },
+    {
+      "UNICODE": "0x6698"
     },
     {
       "UNICODE": "0x66A2"
@@ -9550,6 +8905,9 @@
       "UNICODE": "0x6E89"
     },
     {
+      "UNICODE": "0x6E8F"
+    },
+    {
       "UNICODE": "0x6E90"
     },
     {
@@ -10453,6 +9811,9 @@
       "UNICODE": "0x740A"
     },
     {
+      "UNICODE": "0x740B"
+    },
+    {
       "UNICODE": "0x740D"
     },
     {
@@ -10484,6 +9845,12 @@
     },
     {
       "UNICODE": "0x7441"
+    },
+    {
+      "UNICODE": "0x7444"
+    },
+    {
+      "UNICODE": "0x744B"
     },
     {
       "UNICODE": "0x7455"
@@ -11674,6 +11041,9 @@
       "UNICODE": "0x7ACB"
     },
     {
+      "UNICODE": "0x7AD1"
+    },
+    {
       "UNICODE": "0x7AD9"
     },
     {
@@ -12460,6 +11830,9 @@
       "UNICODE": "0x7FC5"
     },
     {
+      "UNICODE": "0x7FCA"
+    },
+    {
       "UNICODE": "0x7FCC"
     },
     {
@@ -13063,6 +12436,9 @@
       "UNICODE": "0x829F"
     },
     {
+      "UNICODE": "0x82A0"
+    },
+    {
       "UNICODE": "0x82A5"
     },
     {
@@ -13367,6 +12743,9 @@
     },
     {
       "UNICODE": "0x849C"
+    },
+    {
+      "UNICODE": "0x849D"
     },
     {
       "UNICODE": "0x849E"
@@ -15622,6 +15001,9 @@
       "UNICODE": "0x9245"
     },
     {
+      "UNICODE": "0x9249"
+    },
+    {
       "UNICODE": "0x924B"
     },
     {
@@ -15896,6 +15278,9 @@
     },
     {
       "UNICODE": "0x958B"
+    },
+    {
+      "UNICODE": "0x958E"
     },
     {
       "UNICODE": "0x958F"
@@ -16217,6 +15602,9 @@
     },
     {
       "UNICODE": "0x9707"
+    },
+    {
+      "UNICODE": "0x9708"
     },
     {
       "UNICODE": "0x9709"
@@ -17270,27 +16658,6 @@
     },
     {
       "UNICODE": "0xFE44"
-    },
-    {
-      "UNICODE": "0xFE49"
-    },
-    {
-      "UNICODE": "0xFE4A"
-    },
-    {
-      "UNICODE": "0xFE4B"
-    },
-    {
-      "UNICODE": "0xFE4C"
-    },
-    {
-      "UNICODE": "0xFE4D"
-    },
-    {
-      "UNICODE": "0xFE4E"
-    },
-    {
-      "UNICODE": "0xFE4F"
     },
     {
       "UNICODE": "0xFF01"
