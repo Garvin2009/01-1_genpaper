@@ -2,7 +2,7 @@ with open("manuscript_paper.txt", "r", encoding="utf-8") as file:
     text = file.read()
 
 # 去除空格和換行符
-text = text.replace(" ", "").replace("\n", "")
+text = text.replace(" ", "").replace("\n", "").replace("\ufeff","")
 
 # 使用集合（set）來取得不重複的字符
 unique_characters = set(text)
