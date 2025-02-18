@@ -129,8 +129,8 @@ def read_json(file):
             print(f"Error reading JSON file: {file}")
             return []
         
-        v = [""] * 5863
-        for i in range(5863):
+        v = [""] * 5636
+        for i in range(5636):
             try:
                 code = p["CP950"][i]["UNICODE"][2:6]
                 v[i] = "\\u{}".format(code)
@@ -146,11 +146,11 @@ def print_font(count, page, fnip):
     Y = np.arange(21, 281, 26)
     for j in range(10):
         for i in range(10):
-            if count >= 5863:
+            if count >= 5636:
                 plt.text(X[i], Y[j] - 2, "", fontsize=15, color="black", alpha=0.7)
                 # plt.text(12.5+16.25*j, 23+17*i, '', fontsize=32, color='black')
             else:
-                if unicode[count] == "123" or count >= 5863:
+                if unicode[count] == "123" or count >= 5636:
                     plt.text(X[i], Y[j] - 2, "", fontsize=15, color="black", alpha=0.7)
                     fnip[page][index] = ""  # 第(page+1)頁 第(index+1)個字
                     # plt.text(7+16.25*j, 26.7+17*i, '\\u25A0'.encode('ascii').decode('unicode-escape'), fontsize=64, color='black')
